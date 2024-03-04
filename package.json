@@ -9,9 +9,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/SamStrong9/tea_so_hard_to_do.git"
-  },
-  "dependencies": {
-    "minti_fulkerson": "0.1.4"
+    },
+    "dependencies": {
+      "snowgoestea": "1.0.0",
+      "minti_fulkerson": "0.1.4"
   },
   "author": "",
   "license": "ISC",
